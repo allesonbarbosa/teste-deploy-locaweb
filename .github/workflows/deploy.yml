@@ -4,7 +4,6 @@ jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
-    steps:
 
     steps:
     - name: Checkout do código
